@@ -1,0 +1,12 @@
+{
+  "name": "webscraping-corretora",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node craft.js"
+  },
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}
